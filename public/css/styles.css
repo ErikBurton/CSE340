@@ -4,3 +4,74 @@
 *:after {
   box-sizing: border-box;
 }
+
+<h1>Welcome to CSE Motors!</h1>
+<div class="topContent">
+    <img id="delorean" src="images/vehicles/delorean.jpg" alt="delorean">
+    <div class="callToAction">
+        <h3>DMC Delorean</h3>
+        <ul>
+            <li>3 Cup Holders</li>
+            <li>Superman Doors</li>
+            <li>Fuzzy Dice!</li>
+        </ul>
+        <button>Own Today</button>
+    </div>
+</div>
+<div class="bottomContent">
+    <div class="reviews">
+        <h2>Delorean Reviews</h2>
+        <ul>
+            <li>"So fast it's almost like traveling in time" (4/5)</li>
+            <li>"Coolest ride on the road" (4/5)</li>
+            <li>"I'm feeling McFly" (5/5)</li>
+            <li>"The most futuristic ride of our day" (4.5/5)</li>
+            <li>"80's livin and I love it!" (5/5)</li>
+        </ul>
+    </div>
+    <div class="upgrades">
+        <h2>Delorean Upgrades</h2>
+        <ul>
+          <li>
+            <a href="/">
+              <div class="outerUpgrade">
+                <div class="upgrade">
+                  <img src="/images/upgrades/flux-cap.png" alt="flux capacitor"/>
+                </div>
+                Flux Capacitor
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/">
+              <div class="outerUpgrade">
+                <div class="upgrade">
+                  <img src="/images/upgrades/flame.jpg" alt="flame decal" />
+                </div>
+                Flame Decals
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/">
+              <div class="outerUpgrade">
+                <div class="upgrade">
+                  <img src="/images/upgrades/bumper_sticker.jpg" alt="bumper sticker"/>
+                </div>
+                Bumper Stickers
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="/">
+              <div class="outerUpgrade">
+                <div class="upgrade">
+                  <img src="/images/upgrades/hub-cap.jpg" alt="hub cap"/>
+                </div>
+                Hub Caps
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
